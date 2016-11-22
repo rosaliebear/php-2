@@ -1,0 +1,28 @@
+{
+	"object1" : {
+		"id" : "0102",
+		"name" : "Allison Conner",
+		"birthday" : "Jan 1",
+		"gender" : "Female",
+		"register" : "01/01/16",
+		"sports" :["Soccer","Baseball","Cross-Fit"],
+		"faves" : {
+			"book" : "Fight Club",
+			"song" : "Smells Like Teen Spirit",
+			"movie" : "Broken Down Palace"
+		}
+	},
+	"object2" : {
+		"id" : "0103",
+		"name" : "Manuel Sanchez",
+		"birthday" : "Jun 6",
+		"gender" : "Male",
+		"register" : "11/21/16",
+		"sports" :["Ballet"],
+		"faves" : {
+			"book" : "The Elegant Universe",
+			"song" : "Unbreak my Heart",
+			"movie" : "Starship Troopers"
+		}
+	}
+}
